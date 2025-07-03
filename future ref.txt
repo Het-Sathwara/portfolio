@@ -1,0 +1,8 @@
+To add Combo and Work section 
+
+Remove Comments from 
+
+HomePage.tsx
+Navbar.tsx
+WorkSection.tsx
+ComboSection.tsx
